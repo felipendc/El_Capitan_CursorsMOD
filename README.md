@@ -1,4 +1,8 @@
 ![Demo](https://i.imgur.com/1EsBpHg.gif)<br />
+![Demo](https://i.imgur.com/CXNK87Y.png)<br />
+
+<br>
+<br>
 
 
 ***VicyosLinux dafault cursor theme!***
