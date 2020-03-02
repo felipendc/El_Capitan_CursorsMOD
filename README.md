@@ -19,6 +19,8 @@ https://github.com/douglascomim/MacOSMOD
 ##
 
 <br>
+<br>
+<br>
 
 
 ***Manual installation processs. The simple and easy way:*** (Tested only on Xfce)
