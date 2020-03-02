@@ -11,6 +11,6 @@ https://github.com/douglascomim/MacOSMOD
 </pre>
 
 <br>
-el-capitan-cursors-mod (by MacOSMOD)
+by MacOSMOD
 
 ---
