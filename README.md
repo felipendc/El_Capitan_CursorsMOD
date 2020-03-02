@@ -27,7 +27,7 @@ https://github.com/douglascomim/MacOSMOD
 
 <br>
 
-- [x]  ***Step 1:*** Copy the command below and paste them on your terminal. Then, hit "ENTER"
+- [x]  ***Step 1:***  Copy the command below and paste them on your terminal. Then, hit "ENTER"
 
 <pre>git clone https://github.com/felipendc/vicyos-el-capitan-cursors-mod -b master $HOME/MacOSMOD && cd $HOME/MacOSMOD && sudo cp -r El_Capitan_Cursors/* /usr/share/icons/El_Capitan_Cursors && sudo rm -R $HOME/MacOSMOD*</pre>
 
@@ -38,11 +38,7 @@ https://github.com/douglascomim/MacOSMOD
 <br>
 <br>
 
-- [x]  ***Step 2:***
-
-<br>
-
-If you are on Xfce Desktop Environment look for an application named "Mouse and Touchpad". 
+- [x]  ***Step 2:***  If you are on Xfce Desktop Environment look for an application named "Mouse and Touchpad". 
 
 ![Demo](https://i.imgur.com/PtlCVx2.png)
 
