@@ -34,7 +34,7 @@ https://www.deviantart.com/in-dolly/art/macOS-Sierra-Retina-cursors-650823654
 
 <br>
 
->***Beforehand:*** These installation steps were created and tested by me on a Xfce Desktop Environment.
+>***Beforehand:*** These installation steps were created and tested by me on a Xfce Desktop Environment.<br>
 >If you are having problems reference in new Issue.
 
 <br>
