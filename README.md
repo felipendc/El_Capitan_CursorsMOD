@@ -63,7 +63,7 @@ Then, got to "Theme" tab and select "El Capitan".
 
 ##
 
-***Attional information:***
+***Additional information:***
 
 >(If you are  on another Desktop Environment look for something related to mouse or cursor).<br />
 >Now, we are done! Enjoy it.
