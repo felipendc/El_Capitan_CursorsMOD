@@ -27,5 +27,5 @@ cd $HOME/MacOSMOD
 sudo cp -r El_Capitan_Cursors/* /usr/share/icons/El_Capitan_Cursors <pre/>
 
 
-These installation steps were created and tested by me (felipendc). 
-If you are having problems "reference in new Issue".
+These installation steps were created and tested by me 'felipendc'. 
+If you are having problems 'reference in new Issue'.
