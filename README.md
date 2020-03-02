@@ -1,5 +1,5 @@
-![Demo](https://i.imgur.com/1EsBpHg.gif)<br />
-![Demo](https://i.imgur.com/CXNK87Y.png)<br />
+
+<div style="text-align:center"><gif src="https://i.imgur.com/1EsBpHg.gif" /></div>
 
 <br>
 <br>
