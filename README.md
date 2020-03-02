@@ -1,5 +1,5 @@
 
-<div style="gif-align:center"><img src="https://i.imgur.com/1EsBpHg.gif" /></div>
+<center>![](https://i.imgur.com/1EsBpHg.gif)<center/>
 
 <br>
 <br>
