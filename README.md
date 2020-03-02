@@ -1,4 +1,4 @@
-"Demo="source: https://i.imgur.com/1EsBpHg.gif"></center>
+"Demo="source:https://i.imgur.com/1EsBpHg.gif"></center>
 
 <br>
 <br>
