@@ -23,6 +23,8 @@ https://github.com/douglascomim/MacOSMOD
 
 ***Manual installation processs. The simple and easy way:*** (Tested only on Xfce)
 
+<br>
+
 Step 1) Copy the command below and paste them on your terminal. Then, press "ENTER"
 
 <pre>
