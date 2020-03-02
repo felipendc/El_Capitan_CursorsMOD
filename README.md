@@ -30,8 +30,12 @@ git clone https://github.com/felipendc/vicyos-el-capitan-cursors-mod -b master $
 cd $HOME/MacOSMOD
 
 sudo cp -r El_Capitan_Cursors/* /usr/share/icons/El_Capitan_Cursors
+
+rm -R $HOME/MacOSMOD*
+
 </pre>
 
+##
 
-These installation steps were created and tested by me 'felipendc'. 
-If you are having problems 'reference in new Issue'.
+These installation steps were created and tested by me felipendc. 
+If you are having problems reference in new Issue.
