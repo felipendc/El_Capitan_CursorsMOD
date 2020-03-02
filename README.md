@@ -8,7 +8,7 @@
 <br>
 
 
->***VicyosLinux dafault cursor theme!***
+***VicyosLinux dafault cursor theme!***
 
 
 - [x] :fire:MacOSMOD cursor theme is in the buildin'!!! :fire:<br />
@@ -18,10 +18,10 @@
 
 ***For more information, visit:***
 
-<pre>
-https://www.gnome-look.org/p/1241071/
-https://github.com/douglascomim/MacOSMOD
-</pre>
+
+>https://www.gnome-look.org/p/1241071/
+>https://github.com/douglascomim/MacOSMOD
+
 
 ##
 
@@ -65,10 +65,5 @@ Then, got to "Theme" tab and select "El Capitan".
 
 ***Attional information:***
 
-<br>
-
-(If you are  on another Desktop Environment look for something related to mouse or cursor).
-Now, we are done! Enjoy it.
-
-
-
+>(If you are  on another Desktop Environment look for something related to mouse or cursor).
+>Now, we are done! Enjoy it.
