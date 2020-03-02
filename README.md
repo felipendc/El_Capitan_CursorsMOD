@@ -32,6 +32,10 @@ git clone https://github.com/felipendc/vicyos-el-capitan-cursors-mod -b master $
 
 </pre>
 
+<br>
+
+<br>
+
 Step 2)
 
 
