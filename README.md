@@ -44,8 +44,14 @@ Then, got to "Theme" tab and select "El Capitan".
 
 (If you are  on another Desktop Environment look for something related to mouse or cursor).
 
+<br>
 
 Now you we are done! Enjoy it.
+
+<br>
+<br>
+
+----
 
 These installation steps were created and tested by me felipendc. 
 If you are having problems reference in new Issue.
