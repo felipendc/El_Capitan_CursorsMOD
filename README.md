@@ -4,6 +4,7 @@
 
 <br>
 ***For more information, visit:***
+<br>
 
 <pre>
 https://www.gnome-look.org/p/1241071/
