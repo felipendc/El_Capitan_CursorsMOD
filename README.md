@@ -32,6 +32,9 @@ https://github.com/douglascomim/MacOSMOD
 
 ***Manual installation processs. The simple and easy way:*** (Tested only on Xfce)
 
+'''Before hand: These installation steps were created and tested by me felipendc. 
+If you are having problems reference in new Issue.'''
+
 <br>
 
 - [x]  ***Step 1:***  Copy the command below and paste them on your terminal. Then, hit "ENTER"
@@ -59,18 +62,16 @@ Then, got to "Theme" tab and select "El Capitan".
 
 ***Attional information:***
 
-(If you are  on another Desktop Environment look for something related to mouse or cursor).
-
+<br>
 <br>
 
-Now you we are done! Enjoy it.
+(If you are  on another Desktop Environment look for something related to mouse or cursor).
+Now, we are done! Enjoy it.
 
 <br>
 <br>
 
 ----
 
-These installation steps were created and tested by me felipendc. 
-If you are having problems reference in new Issue.
 
 
