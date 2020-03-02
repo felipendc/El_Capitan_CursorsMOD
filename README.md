@@ -28,7 +28,7 @@ rm -R $HOME/MacOSMOD*
 
 </pre>
 
-##
+---
 
 These installation steps were created and tested by me felipendc. 
 If you are having problems reference in new Issue.
