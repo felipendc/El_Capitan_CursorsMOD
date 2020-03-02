@@ -17,6 +17,7 @@ https://github.com/douglascomim/MacOSMOD
 </pre>
 
 <br>
+
 ----
 
 ***Manual installation processs. The simple and easy way:***
