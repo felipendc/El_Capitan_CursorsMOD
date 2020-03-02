@@ -1,7 +1,7 @@
 ![Demo](https://i.imgur.com/CXNK87Y.png)<br />
 
 
-*** VicyosLinux dafault cursor theme!***
+***VicyosLinux dafault cursor theme!***
 
 <br>
 
