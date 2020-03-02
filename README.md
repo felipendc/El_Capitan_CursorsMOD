@@ -26,11 +26,8 @@ https://github.com/douglascomim/MacOSMOD
 
 <pre>
 git clone https://github.com/felipendc/vicyos-el-capitan-cursors-mod -b master $HOME/MacOSMOD
-
 cd $HOME/MacOSMOD
-
 sudo cp -r El_Capitan_Cursors/* /usr/share/icons/El_Capitan_Cursors
-
 rm -R $HOME/MacOSMOD*
 
 </pre>
