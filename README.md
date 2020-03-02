@@ -18,7 +18,7 @@ https://github.com/douglascomim/MacOSMOD
 
 <br>
 
-----
+##
 
 ***Manual installation processs. The simple and easy way:***
 
@@ -33,3 +33,5 @@ rm -R $HOME/MacOSMOD*
 
 These installation steps were created and tested by me felipendc. 
 If you are having problems reference in new Issue.
+
+----
