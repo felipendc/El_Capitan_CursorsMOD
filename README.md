@@ -5,7 +5,7 @@
 
 <br>
 
-- [x] :fire:MacOSMOD cursors theme is in the buildin'!!! :fire:<br />
+- [x] :fire:MacOSMOD cursor theme is in the buildin'!!! :fire:<br />
 - [x] :fire:VicyosLinux now brings MaxOSMOD cursor theme under the hood!:fire:<br />
 
 <br>
