@@ -35,6 +35,8 @@ https://github.com/douglascomim/MacOSMOD
 
 <br>
 
+----
+
 - [x]  ***Step 2:***
 
 <br>
