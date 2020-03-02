@@ -8,7 +8,7 @@
 <br>
 
 
-***VicyosLinux dafault cursor theme!***
+>***VicyosLinux dafault cursor theme!***
 
 
 - [x] :fire:MacOSMOD cursor theme is in the buildin'!!! :fire:<br />
@@ -30,11 +30,14 @@ https://github.com/douglascomim/MacOSMOD
 <br>
 
 
-***Manual installation processs. The simple and easy way:*** (Tested only on Xfce)
+***Manual installation processs. The simple and easy way:***
 
->Before hand: These installation steps were created and tested by me felipendc. 
+<br>
+
+>Before hThese installation steps were created and tested by me felipendc. 
 >If you are having problems reference in new Issue.
 
+<br>
 <br>
 
 - [x]  ***Step 1:***  Copy the command below and paste them on your terminal. Then, hit "ENTER"
@@ -63,15 +66,9 @@ Then, got to "Theme" tab and select "El Capitan".
 ***Attional information:***
 
 <br>
-<br>
 
 (If you are  on another Desktop Environment look for something related to mouse or cursor).
 Now, we are done! Enjoy it.
-
-<br>
-<br>
-
-----
 
 
 
