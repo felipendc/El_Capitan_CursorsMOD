@@ -51,7 +51,7 @@ deviantart.com/in-dolly/art/macOS-Sierra-Retina-cursors-650823654
 <br>
 <br>
 
-- [x]  ***Step 2:***  If you are on Xfce Desktop Environment look for an application named "Mouse and Touchpad". 
+- [x]  ***Step 2:***  If you are on Xfce Desktop Environment, look for an application named "Mouse and Touchpad". 
 
 ![Demo](https://i.imgur.com/PtlCVx2.png)
 
