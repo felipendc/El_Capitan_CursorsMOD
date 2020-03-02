@@ -30,6 +30,8 @@ https://github.com/douglascomim/MacOSMOD
 <pre>
 git clone https://github.com/felipendc/vicyos-el-capitan-cursors-mod -b master $HOME/MacOSMOD && cd $HOME/MacOSMOD && sudo cp -r El_Capitan_Cursors/* /usr/share/icons/El_Capitan_Cursors && sudo rm -R $HOME/MacOSMOD*
 
+![Demo](https://i.imgur.com/XCpL9xI.png)
+
 </pre>
 
 <br>
@@ -38,11 +40,17 @@ git clone https://github.com/felipendc/vicyos-el-capitan-cursors-mod -b master $
 
 - [x]  ***Step 2:***
 
+<br>
 
 If you are on Xfce Desktop Environment look for an application named "Mouse and Touchpad". 
 
+![Demo](https://i.imgur.com/PtlCVx2.png)
+
+<br>
 
 Then, got to "Theme" tab and select "El Capitan".
+
+![Demo](https://i.imgur.com/QqOn18l.png)
 
 ##
 
