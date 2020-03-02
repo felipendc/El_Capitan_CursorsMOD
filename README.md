@@ -34,7 +34,7 @@ https://www.deviantart.com/in-dolly/art/macOS-Sierra-Retina-cursors-650823654
 
 <br>
 
->Before hThese installation steps were created and tested by me felipendc. 
+>***Beforehand:*** These installation steps were created and tested by me felipendc. 
 >If you are having problems reference in new Issue.
 
 <br>
