@@ -1,5 +1,5 @@
 
-<center>(https://i.imgur.com/1EsBpHg.gif)<center/>
+<center>https://i.imgur.com/1EsBpHg.gif<center/>
 
 <br>
 <br>
