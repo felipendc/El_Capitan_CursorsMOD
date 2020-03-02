@@ -22,9 +22,11 @@ https://github.com/douglascomim/MacOSMOD
 
 ***Manual installation processs. The simple and easy way:***
 
-<pre> git clone https://github.com/felipendc/vicyos-el-capitan-cursors-mod -b master $HOME/MacOSMOD
+<pre>
+git clone https://github.com/felipendc/vicyos-el-capitan-cursors-mod -b master $HOME/MacOSMOD
 cd $HOME/MacOSMOD
-sudo cp -r El_Capitan_Cursors/* /usr/share/icons/El_Capitan_Cursors <pre/>
+sudo cp -r El_Capitan_Cursors/* /usr/share/icons/El_Capitan_Cursors
+</pre>
 
 
 These installation steps were created and tested by me 'felipendc'. 
