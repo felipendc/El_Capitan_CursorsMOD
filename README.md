@@ -1,5 +1,4 @@
-
-<center>https://i.imgur.com/1EsBpHg.gif<center/>
+<center><a href="https://i.imgur.com/1EsBpHg.gif"><img src="
 
 <br>
 <br>
